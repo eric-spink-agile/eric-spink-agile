@@ -1,5 +1,10 @@
 # 👋 Hi, I’m Eric Spink
 
+![ScrumMaster](https://img.shields.io/badge/Certified-ScrumMaster-green)
+![Agile](https://img.shields.io/badge/Agile-Leader-blue)
+![Experience](https://img.shields.io/badge/20%2B_Years-IT_Experience-lightgrey)
+![Coaching](https://img.shields.io/badge/Agile-Coach-purple)
+
 I’m an **Agile Leader and Certified ScrumMaster (CSM)** with 20+ years of IT experience and 7+ years coaching teams, scaling Scrum, and driving enterprise Agile transformations. My background spans software development, project management, and delivery leadership, giving me a holistic understanding of how products are built and how teams succeed.
 
 I’m passionate about helping teams work with clarity, predictability, and purpose — and about building environments where continuous improvement is part of the culture, not an afterthought.
